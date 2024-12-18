@@ -2,6 +2,14 @@
 
 Gitのコマンドをおぼえられない方のためのツール
 
+## 使い方
+
+```shell
+git-wizard
+```
+
+## インストール
+
 ```shell
 cargo build --release
 ```
