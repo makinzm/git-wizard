@@ -8,7 +8,9 @@ Gitのコマンドをおぼえられない方のためのツール
 git-wizard
 ```
 
-<div><video controls src="./git-wizard.mp4" muted="false"></video></div>
+<div><video controls src="https://github.com/user-attachments/assets/d401dcab-03eb-4fb2-a52c-581a641b602c" muted="false"></video></div>
+
+
 
 ## インストール
 
