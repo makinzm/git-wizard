@@ -8,6 +8,8 @@ Gitのコマンドをおぼえられない方のためのツール
 git-wizard
 ```
 
+<div><video controls src="./git-wizard.mp4" muted="false"></video></div>
+
 ## インストール
 
 ```shell
